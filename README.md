@@ -5,7 +5,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar]{https://giiovanaa.github.io/next-level-week-rocketseat/}
+[Clique aqui para acessar]{https://arquivo.dev/t2/blank/nexlevelweek/index.html}
 
 ## Tecnologias
 
